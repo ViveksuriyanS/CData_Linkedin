@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.linkedin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.mysql.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.youtube.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.asana.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.googledrive.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.sageintacct.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cdata.jdbc.ebay.jar"/>
+	<classpathentry kind="lib" path="lib/cdata.jdbc.ebayanalytics.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
